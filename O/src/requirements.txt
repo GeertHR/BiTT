@@ -1,5 +1,0 @@
-logging
-argparse
-python-dateutil
-pypyodbc
-flask
